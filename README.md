@@ -1,14 +1,12 @@
 MERN_OPEN_AI_CHATBOT
 
-This repository contains the code for a MERN stack open-source AI chatbot. The chatbot is built using the MERN stack (MongoDB, Express, React, and Node.js) and uses natural language processing (NLP) to understand and respond to user inputs.
+This repository contains the code for a MERN stack open-source AI chatbot. The chatbot is built using the MERN stack (MongoDB, Express, React, and Node.js) and It uses Open AI open source API to perform natural language processing (NLP) to understand and respond to user inputs.
 
 Features
 
 User authentication and authorization using JSON Web Tokens (JWT)
-Real-time messaging using WebSockets
 Natural language processing using the Compromise NLP library
 Customizable chatbot responses
-Admin dashboard for managing chatbot responses
 
 Tech Stack
 
@@ -20,7 +18,6 @@ React: A JavaScript library for building user interfaces used for building the f
 
 Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine used for running the backend server.
 
-WebSocket: A computer communications protocol that provides full-duplex communication channels over a single TCP connection.
 
 Compromise: A natural language processing library for JavaScript.
 
