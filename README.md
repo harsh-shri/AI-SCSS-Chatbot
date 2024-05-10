@@ -1,4 +1,5 @@
 MERN_OPEN_AI_CHATBOT
+
 This repository contains the code for a MERN stack open-source AI chatbot. The chatbot is built using the MERN stack (MongoDB, Express, React, and Node.js) and uses natural language processing (NLP) to understand and respond to user inputs.
 
 Features
